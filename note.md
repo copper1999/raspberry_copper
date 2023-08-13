@@ -1,0 +1,12 @@
+- lấy dữ liệu thời tiết in ra màn hình 
+- tạo 1 thư viện màn hình
+- define để in log
+- tạo class object 
+- tạo bash scrip để build file 
+- sử dụng sensor 
+- tamplate 
+- design paten
+- viết các thư viện bằng cách kế thừa
+- tạo db lưu dữ liệu 
+- đọc file và viết vào file 
+- thao tác với bộ nhớ
