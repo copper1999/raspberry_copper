@@ -14,12 +14,11 @@ void setup() {
     wiringPiSetup();
     //tft.initR(INITR_144GREENTAB); //for 1,44'
     tft.initR(INITR_BLACKTAB); //for 1.8'
+    
 }
 
 int main(void)
 {
-
-
     setup();
     tft.fillScreen(ST7735_BLACK);
     delay(750);
